@@ -1,0 +1,2 @@
+https://blog.griddynamics.com/how-to-build-visual-traffic-analytics-with-open-source-car-tracking-and-license-plates-recognition/
+https://huggingface.co/nickmuchi/yolos-small-finetuned-license-plate-detection
