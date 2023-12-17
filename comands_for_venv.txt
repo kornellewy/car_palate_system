@@ -1,0 +1,4 @@
+python3 -m venv ./venv
+source /base_venv/bin/activate
+pip3 install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1
+pip3 install ultralytics
